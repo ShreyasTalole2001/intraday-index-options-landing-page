@@ -191,4 +191,5 @@ input::-webkit-inner-spin-button {
     right: 20px;
     width: 60px;
     cursor: pointer;
+    z-index: 1000;
 }
